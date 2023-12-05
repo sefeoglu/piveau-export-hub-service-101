@@ -10,7 +10,7 @@ git clone https://github.com/sefeoglu/piveau-export-hub-service-101.git
 ````bash
 git clone https://github.com/sefeoglu/bop-docker-compose.git
 ````
-To access data via pivea export hub service, follow the steps:
+To access data via piveau export hub service, follow the steps:
 
 
 1. run docker app
