@@ -1,2 +1,2 @@
-requests==2.25.1
-pyhton==3.8.5
+requests==2.28.1
+
