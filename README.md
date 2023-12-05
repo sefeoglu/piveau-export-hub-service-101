@@ -1,6 +1,7 @@
 # piveau-export-hub-service 101
-This repository is a "hello world" to piveau exporting hub API usage
-Firstly, clone the following repositories
+This repository is a "hello world" to piveau exporting hub API usage.
+
+Firstly, clone the following repositories.
 
 ````bash
 git clone https://github.com/sefeoglu/piveau-export-hub-service-101.git
